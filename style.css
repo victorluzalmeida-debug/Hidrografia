@@ -1,25 +1,24 @@
-body {
-    color: rgb(156, 50, 255);
-    background: rgb(2, 0, 0);
+body{
+    color: green;
+    background: rgb(229, 240, 24);
     margin: 0px;
-    font-family: "BBH Sans Hegarty", sans-sherif;
+    font-family: "Permanent Marker", sans-serif;
 }
-
-header {
-    border-bottom: solid 20px rgb(63, 194, 199);
+header{
+    border-bottom: solid 2px rgb(0, 38, 255);
     padding: 20px;
     font-size: 32px;
-    color: chocolate
+    color:chocolate;
 }
 
-section {
-    background: green;
+section{
+    background: white;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 
-.chamada-texto {
+.chamada-texto{
     margin-right: 5%;
 }
