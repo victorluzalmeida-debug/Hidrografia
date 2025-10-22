@@ -1,0 +1,25 @@
+body {
+    color: rgb(156, 50, 255);
+    background: rgb(2, 0, 0);
+    margin: 0px;
+    font-family: "BBH Sans Hegarty", sans-sherif;
+}
+
+header {
+    border-bottom: solid 20px rgb(63, 194, 199);
+    padding: 20px;
+    font-size: 32px;
+    color: chocolate
+}
+
+section {
+    background: green;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
