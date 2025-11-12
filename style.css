@@ -28,12 +28,16 @@ h1{
 p{
     font-size: 20px;
 }
+img{
+    height: 200px;
+}
 .categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
-.categoria{
+.categoria-videos{
     padding-left: 20px;
     padding-right: 20px;
+    gap: 10px;
 }
