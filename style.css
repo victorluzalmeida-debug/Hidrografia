@@ -1,11 +1,11 @@
 body{
-    color: rgb(174, 0, 255);
-    background: rgb(0, 89, 255);
+    color:purple;
+    background: blue ;
     margin: 0px;
     font-family: "Permanent Marker", sans-serif;
 }
 header{
-    border-bottom: solid 2px rgb(0, 38, 255);
+    border-bottom: solid 2px red;
     padding: 20px;
     font-size: 32px;
     color:chocolate;
